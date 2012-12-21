@@ -1,2 +1,2 @@
-#!mast .ruby .yardopts bin info data lib man spec test [A-Z]*.*
+#!mast -x *.lock .index .ruby .yardopts bin data demo info lib man spec test [A-Z][A-Z]* *.md *.rdoc *.txt
 

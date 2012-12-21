@@ -1,8 +1,6 @@
-= New
+= <%= title %>
 
-== DESCRIPTION
-
-"New" is a empty Ruby project scaffold. To use it simply clone the repo
+"<%= title %>" is a empty Ruby project scaffold. To use it simply clone the repo
 and run `reap`. Obviously that means you need to install `reap` first.
 
     $ gem install reap

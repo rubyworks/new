@@ -1,0 +1,3 @@
+---
+- <%= Time.now.strftime("%Y") %> (c) <%= name %> Rubyworks (BSD-2-Clause)
+

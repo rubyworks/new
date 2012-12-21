@@ -1,0 +1,2 @@
+require "<%= name %>/cli"
+<%= name.capitalize %>::CLI.run(ARGV) %>
